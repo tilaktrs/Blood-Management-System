@@ -1,0 +1,2 @@
+# Blood-Management-SuperSystem
+As there is only little number of contact person’s information given or provided in hospitals or banks, some people may face difficulty in getting blood fast. So This project is designed to gather more information regarding the contact persons (DONORS || RECEIVERS) ,Hospitals (in need of particular blood type || having required blood type) ,BLOOD  BANKS(in need of particular blood type || having required blood type) in your cities as well as villages and  will provide much more services for the people and help everyone with humanity.
