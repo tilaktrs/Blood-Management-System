@@ -4,10 +4,13 @@ As there is only little number of contact person’s information given or provid
 ## KEY FEATURES 
 ### ✔️ logins for users/members,
 ### ✔️ New donor can be added,
+### ✔️ New recepients can be added,
+### ✔️ List of the recepients can be easily available from map view,
 ### ✔️ Donor can be contacted easily with the contact info,
 ### ✔️ List of the donors can be easily available from map view,
 ### ✔️ You can add yourself as donor,
-### ✔️ Realtime data update,
+### ✔️ Hospitals can make their hospital account so that they can keep checking for blood requirements or connect donor directly.
+### ✔️ Blood bank can also make their account so that they can keep checking for blood requirements and connect to donors directly.
 ### ✔️ Security for authenticated user.
 
 ## Objective
@@ -17,4 +20,4 @@ As there is only little number of contact person’s information given or provid
 ### ✔️ To create easy, hassle free and transparent interface between donor, receiver.
 ### ✔️ To record and document the data in proper, long lasting and secure manner.
 ### ✔️ To manage donated blood properly and effectively especially rare blood type.
-###✔️ To save life as much as possible.
+### ✔️ To save life as much as possible.
