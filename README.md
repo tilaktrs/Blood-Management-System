@@ -21,3 +21,7 @@ As there is only little number of contact person’s information given or provid
 ### ✔️ To record and document the data in proper, long lasting and secure manner.
 ### ✔️ To manage donated blood properly and effectively especially rare blood type.
 ### ✔️ To save life as much as possible.
+
+### ER DIAGRAM 
+![Screenshot (215)](https://user-images.githubusercontent.com/50310860/93846523-e7703680-fcc1-11ea-831a-ced7798b08c8.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/50310860/93846528-e939fa00-fcc1-11ea-930c-fee771b8f7f0.png)
