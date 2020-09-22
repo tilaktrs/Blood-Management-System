@@ -34,5 +34,5 @@ As there is only little number of contact person’s information given or provid
 ![Screenshot (236)](https://user-images.githubusercontent.com/50310860/93848083-5cde0600-fcc6-11ea-98ee-64db09b19d5c.png)
 ![Screenshot (237)](https://user-images.githubusercontent.com/50310860/93848084-5d769c80-fcc6-11ea-8705-b7493cac43ae.png)
 ![Screenshot (238)](https://user-images.githubusercontent.com/50310860/93848086-5ea7c980-fcc6-11ea-82b5-cf7cbe203899.png)
-![Screenshot (239)](https://user-images.githubusercontent.com/50310860/93848089-5f406000-fcc6-11ea-93ee-7dcc5f808797.png)
+
 ![Screenshot (240)](https://user-images.githubusercontent.com/50310860/93848091-5fd8f680-fcc6-11ea-9bae-07a42908e6ac.png)
